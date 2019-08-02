@@ -1,0 +1,19 @@
+{
+  "name": "webstormproducts",
+  "version": "1.0.0",
+  "description": "first node product",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "author": "chris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hejialiang77/webstormproducts.git"
+  }
+}
